@@ -1,0 +1,24 @@
+body {
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    text-align: center;
+    background-color: rgb(166, 168, 182);
+}
+
+
+.mid_cont {
+    height: 680px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.mid_cont button {
+    background-color: blueviolet;
+    border-radius: 15px;
+    height: 60px;
+    width: 160px;
+    font-size: 20px;
+    cursor: pointer;
+}
